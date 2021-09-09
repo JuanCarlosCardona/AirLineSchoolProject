@@ -1,0 +1,1 @@
+Pasajero{IDvuelo=123123, nombre='Jorge', numAsiento=5, pesoEquipaje=3.0, puntos=300}

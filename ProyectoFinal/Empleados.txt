@@ -1,0 +1,1 @@
+Empleado{ID=32131232, telefono=3434, fechaIngreso='Thu Nov 11 00:00:00 MST 2021', sueldo=15000}

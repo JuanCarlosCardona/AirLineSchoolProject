@@ -1,0 +1,1 @@
+Vuelos{origen='tepito', destino='jamaica', horaVuelo='13:00', boletos=2, avion=Avion{ID=621762, modelo='Virgin'}, fecha=Mon Jun 20 00:00:00 MDT 2022}
